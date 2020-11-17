@@ -1,0 +1,4 @@
+Usando el navegador, construya un menú interactivo para selecciónar el ejercicio o salir del programa
+
+1. Usando la estructura for, escriba un programa que imprima su nombre en pantalla 10 veces
+2. Usando la estructura while, repita el ejercicio 1
